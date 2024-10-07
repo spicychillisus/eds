@@ -14,6 +14,10 @@ import java.util.*;
 
 public class svcNum {
     
+    /*
+    this file contains the *MOBITEC* text fonts that are displayed on the service numbers
+    unless you know what you are doing, do not edit this code.
+    */
     
     
     private final int[][] zero = {
